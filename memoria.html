@@ -1,0 +1,33 @@
+<html>
+    <head>
+	<title>RAM</title>
+	<link rel="stylesheet" type="text/css" href="CSS/capap.css" />
+        <meta charset="utf-8">
+    </head>
+    <body>
+	<div id="capa">
+	<p><center><h3>CECYUP</h3></center></p>
+	<div id="capa1"> 
+			<table border="1">
+				<tr>
+					<td><a href="index.html">Inicio</a></td><td><a href="carrito.html">Carrtio de compras</a></td><td><a href="cpu.html">Registrar CPU</a></td><td><a href="gpu.html">Registrar GPU</a></td><td><a href="memoria.html">Registrar memoria RAM</a></td><td><a href="login.html">Login</a></td>
+				</tr>
+			</table>
+		</div>
+		<div id="capap">
+	
+        <form action="php/capmem.php" method="get">
+            <input type="text" name="var1" placeholder="Nombre completo"><br>
+            <input type="text" name="var2" placeholder="Tipo de memoria interna (DDRX)"><br>
+            <input type="text" name="var3" placeholder="Memoria interna (GiB)"><br>
+            <input type="text" name="var4" placeholder="Diseño de la memoria (1x4 GiB)"><br>
+            <input type="text" name="var5" placeholder="Velocidad de memoria del reloj (1666 Mhz)"><br>
+            <input type="text" name="var6" placeholder="Latencia CAS"><br>
+            <input type="text" name="var7" placeholder="Factor de forma (288-pin DIMM)"><br>
+            <input type="text" name="var8" placeholder="Precio (MXN)"><br>
+            <input type="submit" name="btn1" value="Capturar"><br>
+        </form>
+		</div>
+		</div>
+    </body>
+</html>
