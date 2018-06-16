@@ -1,0 +1,28 @@
+#capa{
+	margin: 0px auto;
+	background: #a2ffd1;
+	width: 1330px;
+	height: 1000px;
+}
+#capa1{
+	background: #ffffff;
+	width: 1330px;
+	height: 30px;
+}
+#capa2{
+	background: #c4ffd4;
+	width: 1330px;
+	height: 400px;
+}
+#capa3{
+	background: #ffffff;
+	width: 1330px;
+	height: 30px;
+}
+
+#capap{
+	background: #a2ffd1;
+	width: 1330px;
+	top: 15px;
+	position: relative;
+}

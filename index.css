@@ -1,0 +1,109 @@
+#capa{
+	margin: 0px auto;
+	background: #a2ffd1;
+	width: 1330px;
+	height: 500px;
+}
+#capa1{
+background: white; 
+position: relative;
+top: -15px;
+width: 1330px;
+height: 25px;
+}
+#capa2{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 35px;
+}
+#capa3{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 245px;
+	top: -200; 
+}
+#capa4{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 455px;
+	top: -400;
+}
+#capa5{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 665px;
+	top: -600;
+}
+#capa6{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 875px;
+	top: -800;
+}
+#capa7{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 1085px;
+	top: -1000;
+}
+#capa8{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 35;
+	top: -980px;
+}
+#capa9{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 245px;
+	top: -1180px; 
+}
+#capa10{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 455px;
+	top: -1380px;
+}
+#capa11{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 665px;
+	top: -1580px;
+}
+#capa12{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 875px;
+	top: -1780px;
+}
+#capa13{
+	position: relative;
+	background: #a2ffd1;
+	width: 200px;
+	height: 200px;
+	left: 1085px;
+	top: -1980px;
+}
+		
